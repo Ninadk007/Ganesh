@@ -41,6 +41,7 @@ public class HomeController {
 	{
 		List<State> l = si.getstate(c);
 		System.out.println(l);
+		System.out.println("ninad");
 		return l;
 	}
 	
